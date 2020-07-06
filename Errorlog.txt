@@ -1,0 +1,5 @@
+Errors caught are logged in here: 
+In the file Uility.java, the student Donte Russo from Section 502 has an invalid rank value not in the range of 1-4.
+In the file Uility.java, the student Madiha Blundell from Section 502 has an invalid rank value not in the range of 1-4.
+In the file Uility.java, the student Ruairi Martin from Section 503 has an invalid rank value not in the range of 1-4.
+In the file Uility.java, the student Sohaib Orozco from Section 503 has an invalid, non integer rank value.
